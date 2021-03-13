@@ -8,7 +8,7 @@ This is a working minimal example of how to use Travis CI (and Codecov) with Jav
 
 - It uses the [JUnit](https://junit.org) testing framework
 
-# How To Start
+# How To Start1
 
 1. [Fork](https://github.com/joaomlneto/travis-ci-tutorial-java/fork) this Repository
 2. Go to [Travis CI](http://travis-ci.com) and enable the repository
